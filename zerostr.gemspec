@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "zerostr"
   spec.version       = Zerostr::VERSION
   spec.authors       = ["Hironobu Nishikokura"]
-  spec.email         = ["nishiko@mindia.jp"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["pandeiro245@gmail.com"]
+  spec.summary       = %q{add zero for being the same number of digits}
+  spec.description   = %q{add zero for being the same number of digits}
   spec.homepage      = ""
   spec.license       = "MIT"
 
